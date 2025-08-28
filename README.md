@@ -1,5 +1,5 @@
 # ABC Retailers - Azure Cloud Management System
-
+## Part 1 Video https://youtu.be/E4aTqqGf8Mc
 A comprehensive retail management web application built with ASP.NET Core MVC and Azure Storage Services. This application provides end-to-end management of customers, products, media, orders, and contracts through Azure cloud services.
 
 ## Features
